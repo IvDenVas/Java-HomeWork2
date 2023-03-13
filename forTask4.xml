@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-13T10:00:51.653337400Z</date>
+  <millis>1678701651653</millis>
+  <nanos>337400</nanos>
+  <sequence>0</sequence>
+  <logger>task4</logger>
+  <level>INFO</level>
+  <class>task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запуск калькулятора</message>
+</record>
+<record>
+  <date>2023-03-13T10:01:00.878544500Z</date>
+  <millis>1678701660878</millis>
+  <nanos>544500</nanos>
+  <sequence>1</sequence>
+  <logger>task4</logger>
+  <level>INFO</level>
+  <class>task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ошибка деления на 0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-13T10:01:19.194380700Z</date>
+  <millis>1678701679194</millis>
+  <nanos>380700</nanos>
+  <sequence>0</sequence>
+  <logger>task4</logger>
+  <level>INFO</level>
+  <class>task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запуск калькулятора</message>
+</record>
+<record>
+  <date>2023-03-13T10:01:21.634068800Z</date>
+  <millis>1678701681634</millis>
+  <nanos>68800</nanos>
+  <sequence>1</sequence>
+  <logger>task4</logger>
+  <level>INFO</level>
+  <class>task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сложение</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-13T10:26:05.522275500Z</date>
+  <millis>1678703165522</millis>
+  <nanos>275500</nanos>
+  <sequence>0</sequence>
+  <logger>task4</logger>
+  <level>INFO</level>
+  <class>task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запуск калькулятора</message>
+</record>
+<record>
+  <date>2023-03-13T10:26:10.724127900Z</date>
+  <millis>1678703170724</millis>
+  <nanos>127900</nanos>
+  <sequence>1</sequence>
+  <logger>task4</logger>
+  <level>INFO</level>
+  <class>task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Неверный логический оператор!</message>
+</record>
+</log>
